@@ -24,7 +24,7 @@
 		* [Хаг Facebook групи](#хаг-facebook-групи)
     * [Амстердам](#амстердам)
         * [Амстердам Продавници](#амстердам-продавници)
-
+  * [Dutch за почетници](# Dutch за почетници)
 
 # Холандија за почетници
 
@@ -157,5 +157,12 @@ Welkom.
 * Купување на користени работи е широко распростането. Многу неопходни работи (мебел, облека, опрема) има во „De Kringloper“ продавниците.
 * <https://www.bataviastad.nl/> - Outlet за облека
 
+### Dutch за почетници
+#### Учење Холандски
+* Порано или покасно ќе сватиш дека иако со англиски можеш да живееш, ама холанѓаните ќе те ценат повеќе ако почнеш да го зборуваш јазикот. 
+* <https://www.youtube.com/playlist?list=PLUOa-qvvZolDuuM9Kb7-4OG7ed1c1Yadz> - Bart de Paul (online docent) 
+* https://www.rug.nl/language-centre/e-learning/ - бесплатен 3 неделен курт  
+* https://quizlet.com/Intro_Dutch 
+* mobile app - Duo Lingo
 ---
 Странава е достапна на <http://holandija.spodeli.org>
