@@ -38,7 +38,7 @@ Welkom.
 ## Временска рамка за виза по highly skilled migrant scheme
 
 Ова се однесува за временската рамка и други детали за добивање на виза пo [highly skilled migrant scheme](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx).
-* Критерум за добивање е единствено (соодветен приход)[https://ind.nl/en/Pages/income.aspx#Highly_skilled_migrants_and_European_Blue_Card], односно договор за вработување
+* Критерум за добивање е единствено [соодветен приход](https://ind.nl/en/Pages/income.aspx#Highly_skilled_migrants_and_European_Blue_Card), односно договор за вработување
 * Диплома од факултет повеќе не е потребна при апликација
 * Потврда за неосудуваност повеќе не е потребна при апликација (со изјава на апликантот во апликацијата се покрива)
 * Интернационални изводи од Македонија се прифатени и не е потребно да се нострифицираат
