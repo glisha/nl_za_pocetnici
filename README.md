@@ -130,7 +130,7 @@ Welkom.
 ### Учење Холандски
 Холандски не ти треба за ништо, ама ако не планираш да се селиш за 5 години, пробај да научиш.
 
-* [Duolingo](Duolingo)
+* [Duolingo](https://www.duolingo.com/course/nl-NL/en/Learn-Dutch-Online)
 * [Bart de Paul youtube](https://www.youtube.com/playlist?list=PLUOa-qvvZolDuuM9Kb7-4OG7ed1c1Yadz)
 * <https://www.rug.nl/language-centre/e-learning/> - бесплатен 3 неделен курс
 * <https://quizlet.com/Intro_Dutch>
