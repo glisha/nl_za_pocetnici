@@ -15,6 +15,7 @@
 	 * [Новчарник](#новчарник)
   * [Online shopping](#online-shopping)
   * [Влада](#влада)
+  * [Учење Холандски](#учење-холандски)
   * [Разно](#разно)
 	 * [Апликации за мобилен](#апликации-за-мобилен)
   * [Специфично за градови](#специфично-за-градови)
@@ -127,6 +128,15 @@ Welkom.
 
 Регистрирај се на [DigID](https://www.digid.nl/). Се користи за да се најавуваш на сите сајтови на институции (Данок, Пензија, Здравствено...)
 
+### Учење Холандски
+Холандски не ти треба за ништо, ама ако не планираш да се селиш за 5 години, пробај да научиш.
+
+* [Duolingo](Duolingo)
+* [Bart de Paul youtube](https://www.youtube.com/playlist?list=PLUOa-qvvZolDuuM9Kb7-4OG7ed1c1Yadz)
+* <https://www.rug.nl/language-centre/e-learning/> - бесплатен 3 неделен курс
+* <https://quizlet.com/Intro_Dutch>
+
+
 ## Разно
 ### Апликации за мобилен
 - Радар за дожд ([Buienradar](https://play.google.com/store/apps/details?id=com.supportware.Buienradar&hl=en)). Ти треба бидејќи времето се менува во рок од 30 минути.
@@ -159,12 +169,5 @@ Welkom.
 * Купување на користени работи е широко распростането. Многу неопходни работи (мебел, облека, опрема) има во „De Kringloper“ продавниците.
 * <https://www.bataviastad.nl/> - Outlet за облека
 
-### Dutch за почетници
-#### Учење Холандски
-* Порано или покасно ќе сватиш дека иако со англиски можеш да живееш, ама холанѓаните ќе те ценат повеќе ако почнеш да го зборуваш јазикот. 
-* <https://www.youtube.com/playlist?list=PLUOa-qvvZolDuuM9Kb7-4OG7ed1c1Yadz> - Bart de Paul (online docent) 
-* https://www.rug.nl/language-centre/e-learning/ - бесплатен 3 неделен курт  
-* https://quizlet.com/Intro_Dutch 
-* mobile app - Duo Lingo
 ---
 Странава е достапна на <http://holandija.spodeli.org>
