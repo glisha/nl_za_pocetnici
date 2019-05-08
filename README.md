@@ -149,8 +149,8 @@ Welkom.
 Треба да си избереш матичен доктор со време, и да не си болен. [International Health Centre The Hague](https://ihch.nl/en/contact-us/) се ок.
 
 #### Хаг Продавници
-* <http://www.bulgaarseroos.nl/> - Само бугарски производи.
-  * Бело кравјо сирење за шопска.
+* [https://goo.gl/maps/DLwwDzCbmBcx2xB99/](Magazin Balkan) - Бугарски производи.
+  * Бело кравјо/овчо сирење за шопска, кисело млеко.
 * <http://www.basisemarkt.nl/> - Супермаркет.
   * Ќебапчиња и лепињи.
   * Други ex-yu производи (вегета, плазма, кафе)
