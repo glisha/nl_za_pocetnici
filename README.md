@@ -149,7 +149,7 @@ Welkom.
 Треба да си избереш матичен доктор со време, и да не си болен. [International Health Centre The Hague](https://ihch.nl/en/contact-us/) се ок.
 
 #### Хаг Продавници
-* [https://goo.gl/maps/DLwwDzCbmBcx2xB99/](Magazin Balkan) - Бугарски производи.
+* [Магазин Балкан](https://goo.gl/maps/DLwwDzCbmBcx2xB99/) - Бугарски производи.
   * Бело кравјо/овчо сирење за шопска, кисело млеко.
 * <http://www.basisemarkt.nl/> - Супермаркет.
   * Ќебапчиња и лепињи.
